@@ -1,16 +1,20 @@
-### Hi there 👋
+### Hi there 👋 I am Naol
 
-<!--
-**naolkidanu/naolkidanu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Naol, A Front-end Developer!!!
 
-Here are some ideas to get you started:
+🔬 I'm currently studying at Microverse Inc.
+🌱 I am enthusiastic about learning new technology. In 2022 I start learning about the web development, I learned **HTML**, **CSS**, and **JavaScript**. In 2022 till now, I learned **React**, **TypeScript**, **SASS**.
+💻 💬 My favorite topics are [ "Javascript", "Java", "JavaScript", "ReactJS", "CSS" ]
+📚 I’m currently learning how to build software applications.
+📄 To know about my work & experiences My LinkedIn
+📫 You can reach me on: sabelkidanu18@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Skills
+Languages
+javascript typescript
+
+Front-End Development
+html css sass bootstrap
+
+🖥️ Workspace Setup
+hp elitebook Window vs-code

@@ -7,7 +7,7 @@ I'm Naol, A Front-end Developer!!!
 💻 💬 My favorite topics are [ "Javascript", "Java", "JavaScript", "ReactJS", "CSS" ]
 📚 I’m currently learning how to build software applications.
 📄 To know about my work & experiences My LinkedIn
-📫 You can reach me on: sabelkidanu18@gmail.com
+📫 Email address: sabelkidanu18@gmail.com
 
 🛠️ Skills
 Languages
